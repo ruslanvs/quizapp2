@@ -1,3 +1,5 @@
+App builds both for Android and iOS simulators. Google sign in works on both.
+
 # quizapp
 
 A new Flutter project.
