@@ -1,4 +1,4 @@
-package com.example.quizapp2
+package com.ruslan.quizapp
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
